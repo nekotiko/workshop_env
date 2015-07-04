@@ -50,7 +50,7 @@ while not end_logo:
 
     pygame.display.flip()
 
-    if total_seconds > 4:
+    if total_seconds > 4 and not sound_channel.get_busy():
         end_logo = True
 
 
