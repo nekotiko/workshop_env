@@ -12,7 +12,10 @@ All images belongs to it owners.
 <li> Uncompress the 7zip VM somewhere suitable for you</li>
 <li> Open Virtual Box and Perform an Import Appliance Operation: <a href='http://docs.oracle.com/cd/E26217_01/E26796/html/qs-import-vm.html'>http://docs.oracle.com/cd/E26217_01/E26796/html/qs-import-vm.html<a></li>
 <li> Run the new VM </li>
-<li> Open Pycharm </li>
+<li> Open Pycharm 
+![Alt text](/../master/assets/00.png?raw=true "PyCharm Logo")    
+</li>
+
 <li> Import project from github (you can do this in commandline or any other method as you please)</li>
 <li> (wait for the indexation to finish) Run "test.py"</li>
 </ol>
