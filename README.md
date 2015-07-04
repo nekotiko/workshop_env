@@ -2,13 +2,15 @@
 
 Code to test the PyGame Environment, Education Proposes Only
 
-All images belongs to it owners.
+All images belongs to it's owners.
 
 # How to setup your environment
 
 <ol>
 <li> Install Virtual Box for your environment: </li>
-<li> Download Virtual Machine Image from: </li>
+<li> Download Virtual Machine Image from: <a href='https://drive.google.com/a/growthaccelerationpartners.com/file/d/0B68vrtNG0yC-OHc3M0c4cVQzZVU/view?usp=sharing'>GAP Access Link</a>
+    <p> MD5 (PyGameWorkshopVM.ova) = 27e70a9bd5c94855f744d9bfb4b1cc60</p>
+</li>
 <li> Uncompress the 7zip VM somewhere suitable for you</li>
 <li> Open Virtual Box and Perform an Import Appliance Operation: <a href='http://docs.oracle.com/cd/E26217_01/E26796/html/qs-import-vm.html'>http://docs.oracle.com/cd/E26217_01/E26796/html/qs-import-vm.html<a></li>
 <li> Run the new VM </li>
@@ -46,4 +48,4 @@ All images belongs to it owners.
 
 <b>At this point you should see an image and heard a sound, if this is true. you are ready to go, Sound and Libraries works properly.</b>
 
-For any problem please don't hesitate to ask me to: racuna@wearegap.com
+For any problem please don't hesitate to ask me: racuna@wearegap.com
