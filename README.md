@@ -30,21 +30,25 @@ All images belongs to it's owners.
     
 </li>
 
-<li> Import project from github from UI (you can also do this in commandline or any other method as you please)
+<li> Import project from github using  UI (you can also do this in commandline or any other method as you please)
 
   <p>Click on Check out from Version Control and select Github</p><p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp06.png?raw=true')</img>
     </p>
     <hr/>
-    <p>On Login page enter the following host</p>
-     <p>https://github.com/nekotiko/workshop_env.git</p>
-     <p>Provide your github credentials if you don't have a Github user please click on Sign up link to create one </p> 
+     <p>On Login page provide your GitHub credentials and press Login button. If you don't have a GitHub user please click on Sign up link to create one </p> 
     <p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/02.png?raw=true')</img>
     </p>
     <hr/>
+    <p>Press Cancel button on Setup Master Password window </p>
+     <p>
+<img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp07.png?raw=true')</img>
+    </p>
+    <p>On Clone Repository dialog enter the following Git Repository URL and click Clone button</p>
+    <p>https://github.com/nekotiko/workshop_env.git</p>
    <p>
-<img src='https://github.com/nekotiko/workshop_env/blob/master/assets/03.png?raw=true')</img>
+<img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp08.png?raw=true')</img>
     </p>
  
 </li>
