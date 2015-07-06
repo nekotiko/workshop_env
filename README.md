@@ -36,11 +36,14 @@ All images belongs to it's owners.
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp06.png?raw=true')</img>
     </p>
     <hr/>
+    <p>On Login page enter the following host</p>
+     <p>https://github.com/nekotiko/workshop_env.git</p>
+     <p>Provide your github credentials if you don't have a Github user please click on Sign up link to create one </p> 
     <p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/02.png?raw=true')</img>
     </p>
     <hr/>
-    <p>https://github.com/nekotiko/workshop_env.git</p><p>
+   <p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/03.png?raw=true')</img>
     </p>
  
