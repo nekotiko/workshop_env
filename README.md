@@ -5,7 +5,7 @@ Code to test the PyGame Environment, Education Proposes Only
 All images belongs to it's owners.
 
 # How to setup your environment
-
+<p>Note: Before run these steps make sure that Virtual Technology is Enabled in your device BIOS options</p>
 <ol>
 <li> Install Virtual Box for your environment: </li>
 <li> Download Virtual Machine Image from: <a href='https://drive.google.com/a/growthaccelerationpartners.com/file/d/0B68vrtNG0yC-OHc3M0c4cVQzZVU/view?usp=sharing'>GAP Access Link</a>
