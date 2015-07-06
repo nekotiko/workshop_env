@@ -11,8 +11,18 @@ All images belongs to it's owners.
 <li> Download Virtual Machine Image from: <a href='https://drive.google.com/a/growthaccelerationpartners.com/file/d/0B68vrtNG0yC-OHc3M0c4cVQzZVU/view?usp=sharing'>GAP Access Link</a>
     <p> MD5 (PyGameWorkshopVM.ova) = 27e70a9bd5c94855f744d9bfb4b1cc60</p>
 </li>
-<li> Uncompress the 7zip VM somewhere suitable for you</li>
-<li> Open Virtual Box and Perform an Import Appliance Operation: <a href='http://docs.oracle.com/cd/E26217_01/E26796/html/qs-import-vm.html'>http://docs.oracle.com/cd/E26217_01/E26796/html/qs-import-vm.html<a></li>
+<li> Open Virtual Box and Perform an Import Appliance Operation: 
+<p>1. Go to File menu and click on Import Appliance</p>
+<img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp01.png?raw=true')</img>
+<p>2. Browse the ova file downloaded from GAP link and click on Next button</p>
+<img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp02.png?raw=true')</img>
+<p>3. On appliance settings double click CPU value and set it as 2, uncheck USB Controler option and press Import button</p>
+<img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp03.png?raw=true')</img>
+<p>4. Press Agree button on Software License Agreement</p>
+<img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp04.png?raw=true')</img>
+<p>5. Wait until progress bar completes</p>
+<img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp05.png?raw=true')</img>
+</li>
 <li> Run the new VM </li>
 <li> Open Pycharm:<p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/01.png?raw=true')</img>
