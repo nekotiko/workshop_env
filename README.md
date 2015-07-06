@@ -59,7 +59,7 @@ All images belongs to it's owners.
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp09.png?raw=true')</img>
     </p>
     <hr/>
-</li>
+<li/>
 <li> Once in the project click on workshop_env and click on test to expand
 <p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp010?raw=true')</img>
