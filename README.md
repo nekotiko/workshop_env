@@ -14,19 +14,25 @@ All images belongs to it's owners.
 <li> Open Virtual Box and Perform an Import Appliance Operation: 
 <p>a. Go to File menu and click on Import Appliance</p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp01.png?raw=true')</img>
-<p>b. Browse the ova file downloaded from GAP link and click on Next button</p>
+<hr/>
+<p>b. Browse the ova file downloaded from GAP link on step 2 and click on Next button</p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp02.png?raw=true')</img>
+<hr/>
 <p>c. On appliance settings double click CPU value and set it as 2, uncheck USB Controler option and press Import button</p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp03.png?raw=true')</img>
+<hr/>
 <p>d. Press Agree button on Software License Agreement</p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp04.png?raw=true')</img>
+<hr/>
 <p>e. Wait until progress bar completes</p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp05.png?raw=true')</img>
+<hr/>
 </li>
 <li> Run the new VM </li>
 <li> Open Pycharm by double clicking the illustrated icon in the bottom menu<p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/01.png?raw=true')</img>
     </p>
+    <hr/>
     
 </li>
 
@@ -43,13 +49,16 @@ All images belongs to it's owners.
 <p>c. Press Cancel button on Setup Master Password window </p><p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp07.png?raw=true')</img>
     </p>
+    <hr/>
 <p>d. On Clone Repository dialog enter the following Git Repository URL and click Clone button</p>
 <p>https://github.com/nekotiko/workshop_env.git</p><p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp08.png?raw=true')</img>
     </p>
+    <hr/>
 <p>e. Wait for the indexation to finish and click Yes on Checkout Confirmation dialog</p><p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp09.png?raw=true')</img>
     </p>
+    <hr/>
 </li>
 <li> Once in the project click on workshop_env and click on test to expand
 <p>
@@ -57,9 +66,11 @@ All images belongs to it's owners.
     </p>
     <hr/>
 <li/>
-<li> Right click on test.py and select Run test</p><p>
+<li> Right click on test.py and select Run test
+<p>
 <img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp11?raw=true')</img>
     </p>
+    <hr/>
 </li>
 </ol>
 
