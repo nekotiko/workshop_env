@@ -11,8 +11,8 @@ All images belongs to it's owners.
 <li> Download Virtual Machine Image from: <a href='ftp://horsetail.dreamhost.com/VMImage/'>FTP Access Link</a>
     
     <ol>
-       <li>user: gapcom</li>
-       <li>pass: G4pc0n2015//</li>
+       <li>user: <b>gapcom</b></li>
+       <li>pass: <b>G4pc0n2015//</b></li>
     </ol>
     <p> MD5 (PyGameWorkshopVM.ova) = 27e70a9bd5c94855f744d9bfb4b1cc60</p>
 </li>
