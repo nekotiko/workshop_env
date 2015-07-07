@@ -8,7 +8,12 @@ All images belongs to it's owners.
 <p>Note: Before run these steps make sure that Virtual Technology is Enabled in your device BIOS options</p>
 <ol>
 <li> Install Virtual Box for your environment: </li>
-<li> Download Virtual Machine Image from: <a href='https://drive.google.com/a/growthaccelerationpartners.com/file/d/0B68vrtNG0yC-OHc3M0c4cVQzZVU/view?usp=sharing'>GAP Access Link</a>
+<li> Download Virtual Machine Image from: <a href='ftp://horsetail.dreamhost.com/VMImage/'>FTP Access Link</a>
+    
+    <ol>
+       <li>user: gapcom</li>
+       <li>pass: G4pc0n2015//</li>
+    </ol>
     <p> MD5 (PyGameWorkshopVM.ova) = 27e70a9bd5c94855f744d9bfb4b1cc60</p>
 </li>
 <li> Open Virtual Box and Perform an Import Appliance Operation: 
