@@ -67,13 +67,13 @@ All images belongs to it's owners.
 </li>
 <li> Once in the project click on workshop_env and click on test to expand
 <p>
-<img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp010?raw=true')</img>
+<img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp10.png?raw=true')</img>
     </p>
     <hr/>
 </li>
 <li> Right click on test.py and select Run test
 <p>
-<img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp11?raw=true')</img>
+<img src='https://github.com/nekotiko/workshop_env/blob/master/assets/worksp11.png?raw=true')</img>
     </p>
     <hr/>
 </li>
