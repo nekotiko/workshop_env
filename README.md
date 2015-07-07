@@ -8,7 +8,7 @@ All images belongs to it's owners.
 <p>Note: Before run these steps make sure that Virtual Technology is Enabled in your device BIOS options</p>
 <ol>
 <li> Install Virtual Box for your environment: </li>
-<li> Download Virtual Machine Image from: <a href='ftp://horsetail.dreamhost.com/VMImage/'>FTP Access Link</a>
+<li> Download Virtual Machine Image from: <a href='ftp://gapcom:G4pc0n2015//@horsetail.dreamhost.com/VMImage/'>ftp://gapcom:G4pc0n2015//@horsetail.dreamhost.com/VMImage/</a>
     
     <ol>
        <li>user: <b>gapcom</b></li>
